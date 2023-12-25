@@ -1,7 +1,0 @@
-{
-    "env": [
-        {
-            "FREDHOPP": "$HOUDINI_PACKAGE_PATH/some_other_pkg"
-        }
-    ]
-}
